@@ -1,0 +1,77 @@
+{
+
+  "name": "Dzuhalah",
+
+  "short_name": "Logo Website Dzuhalah",
+
+  "scope": "https://www.dzuhalah.my.id",
+
+  "start_url": "https://www.dzuhalah.my.id",
+
+  "display": "standalone",
+
+  "background_color": "#fff",
+
+  "theme_color": "#2B0C93",
+
+  "description": "Kumpulan Tips &amp; Trik Seputar Android, Blogger pemula Dan Internet, Informasi Terbaru Seputar Cryptocurrency, Dan Tutorial Media Sosial Lainnya.",
+
+  "icons": [{
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s48/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s48/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s96/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s144/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s168/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s192/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-VmkKc7BNfkk/YIrTIRCMIPI/AAAAAAAAAHE/5wHj6AferwgWTkWCScRW4Q49hA2EWliegCLcBGAsYHQ/s512/logo%2Bwebsite%2Brumahthalibmyidico.png",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
